@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メアの教育",
+  "base_artist": "コウ",
+  "createdAt": "2025-12-26T08:07:47.509374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メアの教育",
+      "artist": "SymaG",
+      "has_synced": true,
+      "path": "select/01_メアの教育_SymaG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メアの教育",
+      "artist": "コウ",
+      "has_synced": false,
+      "path": "select/pl_01_メアの教育_コウ.txt"
+    }
+  ]
+}
